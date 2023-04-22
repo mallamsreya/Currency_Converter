@@ -1,13 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Currency_Converter;
 
 /**
  *
- * @author mukul
+ * @author mall
  */
 public class CurrencyConverter extends javax.swing.JFrame {
 double US_Dollar = 1.31;
@@ -322,7 +318,7 @@ String[] currencyUnits = {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+    
     private javax.swing.JComboBox<String> firstCountry;
     private javax.swing.JLabel firstCurrencyUnit;
     private javax.swing.JButton jButton1;
